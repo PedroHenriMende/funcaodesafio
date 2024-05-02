@@ -1,3 +1,6 @@
+/*
+Nome: Pedro Henrique Mendes de Jesus
+*/
 console.clear();
 var teclado = require("prompt-sync")();
 var d = parseInt(teclado("Digite o Dia: "));
