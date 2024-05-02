@@ -1,3 +1,6 @@
+/*
+Nome: Pedro Henrique Mendes de Jesus
+*/
 console.clear();
 const teclado = require(`prompt-sync`)();
 
